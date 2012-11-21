@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+/media/fat32/tbrun/SLAM5/03-OSE/.metadata/.plugins/org.eclipse.jdt.core
+3271464056.index
